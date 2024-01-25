@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm IHeenrique</h1>
 <h3 align="center">I'm a DiscordJS programmer living in Brazil</h3>
 
-- 🔭 I’m currently working on [Ravens Bot](https://github.com/IHeenrique/Ravens-Mod)
+- 🔭 I'm currently not working on anything
 
 - 🌱 I’m currently learning **.Lua**
 
